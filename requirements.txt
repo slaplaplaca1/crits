@@ -1,5 +1,5 @@
 #Django 2.0+ requires Python 3.x
-Django<2.0
+Django<3.2.25
 Pillow
 amqp
 anyjson
