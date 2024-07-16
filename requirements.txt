@@ -35,7 +35,7 @@ python-mimeparse
 pytz
 pyyaml
 requests
-setuptools>=28.3.0
+setuptools>=70.0.0
 simplejson
 six
 ushlex
